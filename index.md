@@ -6,9 +6,9 @@ Computer Programming 1 which focused on Processing and Python
 ### Calculator
 Basic addition, subtraction, multiplication, and division application
   * Screen Capture of running Application
-    * ![]() 
+    * ![Calculator](https://github.com/LemScoot/IhopeIcaneditthis/blob/gh-pages/images/Calculator%20Pic.png?raw=true) 
   * Scource Code for application
-    * ![]()
+    * ![Source Code for Calculator]()
 
 ### Screensaver
 
