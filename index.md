@@ -12,5 +12,10 @@ Computer Programming 1 which focused on Processing and Python
 ### SpaceGame
 OOP Solution for a collision based 2D space shooter
 * Screen capture of running application
+* ![SpaceGame]()
 
 * Scource code for application
+
+## Python Projects
+
+### ShapeTester
