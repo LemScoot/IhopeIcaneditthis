@@ -4,6 +4,11 @@ Computer Programming 1 which focused on Processing and Python
 ## Processing Projects
 
 ### Calculator
+Basic addition, subtraction, multiplication, and division application
+  * Screen Capture of running Application
+    * ![]() 
+  * Scource Code for application
+    * ![]()
 
 ### Screensaver
 
@@ -12,10 +17,10 @@ Computer Programming 1 which focused on Processing and Python
 ### SpaceGame
 OOP Solution for a collision based 2D space shooter
 * Screen capture of running application
-* ![SpaceGame](https://github.com/LemScoot/IhopeIcaneditthis/blob/gh-pages/images/SpaceGame%20Pic.png?raw=true)
+  * ![SpaceGame](https://github.com/LemScoot/IhopeIcaneditthis/blob/gh-pages/images/SpaceGame%20Pic.png?raw=true)
 
 * Scource code for application
-* ![Scource Code for SpaceGame](https://github.com/LemScoot/IhopeIcaneditthis/blob/gh-pages/SRC/Space_Game.zip)
+  * ![Scource Code for SpaceGame](https://github.com/LemScoot/IhopeIcaneditthis/blob/gh-pages/SRC/Space_Game.zip)
 
 ## Python Projects
 
